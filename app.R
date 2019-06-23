@@ -40,7 +40,7 @@ ui <- fluidPage(
   fluidRow(                                    
     column(12,
            p("", 
-             a("", href="http://rpubs.com/DiegoUsai", target="_blank"),
+             a("", href="", target="_blank"),
              "", 
              a("", href = "Market_Basket_Analysis", target="_blank"))
     )
